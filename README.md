@@ -1,6 +1,6 @@
 # Smart Budget Tracker
 
-![Dashboard Screenshot](./powerbi/dashboard_screenshot.png)
+![Dashboard Screenshot](power BI Report.png)
 
 ## Overview
 
