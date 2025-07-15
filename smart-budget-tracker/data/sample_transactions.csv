@@ -1,0 +1,17 @@
+date,amount,description,category
+2023-01-01,150.00,Grocery Store,Food
+2023-01-03,2000.00,Monthly Rent,Rent
+2023-01-05,50.00,Coffee Shop,Food
+2023-01-10,120.00,Online Shopping,Shopping
+2023-01-15,75.00,Gas Station,Transport
+2023-01-20,300.00,Restaurant,Food
+2023-01-25,500.00,Utilities,Utilities
+2023-01-28,100.00,Movie Tickets,Entertainment
+2023-02-01,250.00,Grocery Store,Food
+2023-02-03,1500.00,Monthly Rent,Rent
+2023-02-05,60.00,Coffee Shop,Food
+2023-02-10,200.00,Online Shopping,Shopping
+2023-02-15,80.00,Gas Station,Transport
+2023-02-20,350.00,Restaurant,Food
+2023-02-25,450.00,Utilities,Utilities
+2023-02-28,120.00,Concert Tickets,Entertainment
